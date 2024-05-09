@@ -128,4 +128,4 @@ function App() {
 
 ## 6. Virtual DOM
 
-O React utiliza um DOM virtual para otimizar a renderização da interface do usuário. O DOM virtual é
+O React utiliza um DOM virtual para otimizar.
